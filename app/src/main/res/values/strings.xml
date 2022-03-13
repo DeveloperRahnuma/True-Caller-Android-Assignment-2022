@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVM-Architecture</string>
+
+<!--    for layout -->
+    <string name="fetch_data">Click Here For Fetch Data</string>
+    <string name="TenthCharacter">The Tenth Character Is -></string>
+    <string name="EveryTenthCharacter">Each 10th Character</string>
+    <string name="WordCounter">Same Words Counter</string>
+    <string name="no_network_connection">Not Connected With Internet</string>
+
+</resources>
